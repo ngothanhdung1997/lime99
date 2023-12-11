@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://ngothanhdung1997.github.io/kieuyenvy/valentine.html";
+            window.location = "https://ngothanhdung1997.github.io/lime99/valentine1.html";
           },
         });
       }
